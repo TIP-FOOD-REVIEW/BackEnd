@@ -11,7 +11,7 @@
   </welcome-file-list>
   <servlet>
     <servlet-name>DBConnectionTestServlet</servlet-name>
-    <servlet-class>H2DB.DBConnectionTestServlet</servlet-class>
+ 	<servlet-class>H2DB.DBConnectionTestServlet</servlet-class>  
   </servlet>
   <servlet-mapping>
     <servlet-name>DBConnectionTestServlet</servlet-name>
